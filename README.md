@@ -14,7 +14,7 @@ Slim/Minified CDN link:
 Minified via CDN [\(RawGit)](rawgit.com)
 Note: this is a DEV CDN, excessive traffic will be throttled
 ```
-
+\<link type="text/javascript" href="https://rawgit.com/CSGOFlair/Squirrel-CSS-Highlighting/f5326e68bbd90b536bf8f143442111a4a76344b7/parse.min.js">
 ```
 <br/>
 Early Dev Checklist:
